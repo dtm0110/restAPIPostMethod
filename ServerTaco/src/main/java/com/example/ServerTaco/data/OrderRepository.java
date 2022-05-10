@@ -1,4 +1,4 @@
-package com.example.clienttaco.data;
+package com.example.ServerTaco.data;
 
 import com.example.ServerTaco.model.Order;
 import org.springframework.data.repository.CrudRepository;

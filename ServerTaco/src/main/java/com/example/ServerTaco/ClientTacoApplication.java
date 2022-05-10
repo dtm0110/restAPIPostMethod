@@ -1,13 +1,13 @@
-package com.example.clienttaco;
+package com.example.ServerTaco;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ClientTacoApplication {
+public class ServerTacoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ClientTacoApplication.class, args);
+		SpringApplication.run(ServerTacoApplication.class, args);
 	}
 
 }
