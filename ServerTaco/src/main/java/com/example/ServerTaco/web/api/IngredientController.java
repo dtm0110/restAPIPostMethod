@@ -3,8 +3,8 @@ package com.example.ServerTaco.web.api;
 
 import java.util.Optional;
 
+import com.example.ServerTaco.data.IngredientRepository;
 import com.example.ServerTaco.model.Ingredient;
-import com.example.clienttaco.data.IngredientRepository;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
